@@ -3,7 +3,7 @@
   <a href="https://github.com/uwo-fast">
     <img src="https://github.com/uwo-fast/.github/blob/main/branding/FAST%20Logo%20Orange%20on%20White%20Transparent.png" height="100">
   </a>
-  <h2><a href="https://github.com/uwo-fast/Slice_LOAD"> Slice HPTC </a></h2>
+  <h2><a href="https://github.com/uwo-fast/Slice_LOAD"> Slice LOAD </a></h2>
   <!-- Labels: -->
   <!-- First row: -->
   <a href="https://github.com/uwo-fast/.github/blob/main/collaborating.md">
