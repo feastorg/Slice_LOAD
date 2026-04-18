@@ -1305,7 +1305,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "280979d7-7960-4673-869c-4b207aeaf2ce")
-		(property "Reference" "C34"
+		(property "Reference" "C11"
 			(at 116.84 112.522 0)
 			(effects
 				(font
@@ -1359,7 +1359,7 @@
 		(instances
 			(project "BREAD_Slice"
 				(path "/66043bca-a260-4915-9fce-8a51d324c687/6de3a3fd-790e-4d94-a2c4-e38a1720a215"
-					(reference "C34")
+					(reference "C11")
 					(unit 1)
 				)
 			)
@@ -1374,7 +1374,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "3e14ef30-eb25-481b-9a30-053d20837e9a")
-		(property "Reference" "C37"
+		(property "Reference" "C14"
 			(at 205.74 96.52 0)
 			(effects
 				(font
@@ -1428,7 +1428,7 @@
 		(instances
 			(project "BREAD_Slice"
 				(path "/66043bca-a260-4915-9fce-8a51d324c687/6de3a3fd-790e-4d94-a2c4-e38a1720a215"
-					(reference "C37")
+					(reference "C14")
 					(unit 1)
 				)
 			)
@@ -1444,7 +1444,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "839b3fe9-3699-4a4d-95b1-4cecaa676f09")
-		(property "Reference" "R28"
+		(property "Reference" "R11"
 			(at 192.786 106.68 0)
 			(effects
 				(font
@@ -1496,7 +1496,7 @@
 		(instances
 			(project "BREAD_Slice"
 				(path "/66043bca-a260-4915-9fce-8a51d324c687/6de3a3fd-790e-4d94-a2c4-e38a1720a215"
-					(reference "R28")
+					(reference "R11")
 					(unit 1)
 				)
 			)
@@ -1511,7 +1511,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "aff9ee13-adcd-4d62-baeb-1ff2de4e7f4b")
-		(property "Reference" "C35"
+		(property "Reference" "C12"
 			(at 122.682 101.854 90)
 			(effects
 				(font
@@ -1563,7 +1563,7 @@
 		(instances
 			(project "BREAD_Slice"
 				(path "/66043bca-a260-4915-9fce-8a51d324c687/6de3a3fd-790e-4d94-a2c4-e38a1720a215"
-					(reference "C35")
+					(reference "C12")
 					(unit 1)
 				)
 			)
@@ -1579,7 +1579,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "b4be3e89-c973-410a-83e0-79ddc30d0de5")
-		(property "Reference" "R27"
+		(property "Reference" "R9"
 			(at 192.786 83.82 0)
 			(effects
 				(font
@@ -1631,7 +1631,7 @@
 		(instances
 			(project "BREAD_Slice"
 				(path "/66043bca-a260-4915-9fce-8a51d324c687/6de3a3fd-790e-4d94-a2c4-e38a1720a215"
-					(reference "R27")
+					(reference "R9")
 					(unit 1)
 				)
 			)
@@ -1647,7 +1647,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "b8ef9c04-408f-499b-a81a-654932efb020")
-		(property "Reference" "U8"
+		(property "Reference" "U3"
 			(at 151.13 87.63 0)
 			(effects
 				(font
@@ -1722,7 +1722,7 @@
 		(instances
 			(project "BREAD_Slice"
 				(path "/66043bca-a260-4915-9fce-8a51d324c687/6de3a3fd-790e-4d94-a2c4-e38a1720a215"
-					(reference "U8")
+					(reference "U3")
 					(unit 1)
 				)
 			)
@@ -1738,7 +1738,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "bdf47267-f8cb-49d4-8516-471cecb1a2c9")
-		(property "Reference" "C36"
+		(property "Reference" "C13"
 			(at 179.07 93.9735 0)
 			(effects
 				(font
@@ -1792,7 +1792,7 @@
 		(instances
 			(project "BREAD_Slice"
 				(path "/66043bca-a260-4915-9fce-8a51d324c687/6de3a3fd-790e-4d94-a2c4-e38a1720a215"
-					(reference "C36")
+					(reference "C13")
 					(unit 1)
 				)
 			)
@@ -1808,7 +1808,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "c10c2d16-c7b6-45b3-8e68-db279698ef72")
-		(property "Reference" "R29"
+		(property "Reference" "R10"
 			(at 192.786 93.98 0)
 			(effects
 				(font
@@ -1860,7 +1860,7 @@
 		(instances
 			(project "BREAD_Slice"
 				(path "/66043bca-a260-4915-9fce-8a51d324c687/6de3a3fd-790e-4d94-a2c4-e38a1720a215"
-					(reference "R29")
+					(reference "R10")
 					(unit 1)
 				)
 			)
