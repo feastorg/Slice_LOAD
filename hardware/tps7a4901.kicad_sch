@@ -862,12 +862,6 @@
 		(uuid "35f579ac-d08e-4cae-aebe-d9a1deb0ec2b")
 	)
 	(junction
-		(at 123.19 118.11)
-		(diameter 0)
-		(color 0 0 0 1)
-		(uuid "6fb95883-9dd2-4681-9d3d-60ba839bfb8b")
-	)
-	(junction
 		(at 152.4 118.11)
 		(diameter 0)
 		(color 128 77 0 1)
@@ -1278,17 +1272,6 @@
 	)
 	(wire
 		(pts
-			(xy 123.19 105.41) (xy 123.19 118.11)
-		)
-		(stroke
-			(width 0.2032)
-			(type default)
-			(color 0 0 0 1)
-		)
-		(uuid "ea0a07ec-533a-45f5-a8c6-7343594b1c8b")
-	)
-	(wire
-		(pts
 			(xy 189.23 80.01) (xy 203.2 80.01)
 		)
 		(stroke
@@ -1319,6 +1302,16 @@
 			(color 128 77 0 1)
 		)
 		(uuid "fdf4e11c-d8ca-4557-818f-8f5e3604b6d2")
+	)
+	(label "EPAD"
+		(at 123.19 105.41 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right bottom)
+		)
+		(uuid "2d31db90-4cbc-4e10-bec0-b7188292d695")
 	)
 	(label "EPAD"
 		(at 152.4 116.84 0)
