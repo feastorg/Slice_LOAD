@@ -1287,7 +1287,7 @@
 		(descr "Through hole angled socket strip, 1x10, 2.54mm pitch, 8.51mm socket length, single row (from Kicad 4.0.7), script generated")
 		(tags "Through hole angled socket strip THT 1x10 2.54mm single row")
 		(property "Reference" "J1"
-			(at -2.6 2.55 0)
+			(at 4.4 -1.75 0)
 			(layer "F.SilkS")
 			(uuid "136ac88a-90a0-4302-8df1-8a3122e92ef6")
 			(effects
@@ -2592,6 +2592,7 @@
 		(property "Reference" "R2"
 			(at 0 -1.43 90)
 			(layer "F.SilkS")
+			(hide yes)
 			(uuid "6b7aa066-e21b-4a39-af94-34d59b704496")
 			(effects
 				(font
@@ -2792,6 +2793,7 @@
 		(property "Reference" "R8"
 			(at 0 -1.43 90)
 			(layer "F.SilkS")
+			(hide yes)
 			(uuid "93ec4e8f-923c-403e-b712-a2c451ec7f9d")
 			(effects
 				(font
@@ -2992,6 +2994,7 @@
 		(property "Reference" "R6"
 			(at 0 -1.43 90)
 			(layer "F.SilkS")
+			(hide yes)
 			(uuid "9fd4de2d-e56e-4ee5-8c1f-0f0b5473d049")
 			(effects
 				(font
@@ -3192,6 +3195,7 @@
 		(property "Reference" "R4"
 			(at 0 -1.43 90)
 			(layer "F.SilkS")
+			(hide yes)
 			(uuid "8cd118e4-cc55-4391-bbd1-63c42556504b")
 			(effects
 				(font
@@ -3392,6 +3396,7 @@
 		(property "Reference" "R1"
 			(at 0 -1.43 90)
 			(layer "F.SilkS")
+			(hide yes)
 			(uuid "7cd7b0e4-d2ea-458b-892f-138cd55c66e0")
 			(effects
 				(font
@@ -3592,6 +3597,7 @@
 		(property "Reference" "C8"
 			(at 0 -1.43 0)
 			(layer "F.SilkS")
+			(hide yes)
 			(uuid "9e03f009-fff9-4c65-b758-921d9ab4fbb1")
 			(effects
 				(font
@@ -3804,6 +3810,7 @@
 		(property "Reference" "C7"
 			(at 0 -1.43 0)
 			(layer "F.SilkS")
+			(hide yes)
 			(uuid "3cc2cdcd-76c3-4bbe-874e-a2e44d219604")
 			(effects
 				(font
@@ -4481,6 +4488,7 @@
 		(property "Reference" "R5"
 			(at 0 -1.43 90)
 			(layer "F.SilkS")
+			(hide yes)
 			(uuid "be8aeb96-b4eb-4291-9ebe-59e9ff9a912a")
 			(effects
 				(font
@@ -4975,7 +4983,7 @@
 		(descr "Capacitor SMD 0603 (1608 Metric), square (rectangular) end terminal, IPC-7351 nominal with elongated pad for handsoldering. (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
 		(tags "capacitor handsolder")
 		(property "Reference" "C6"
-			(at 0 -1.43 90)
+			(at 0 1.42 90)
 			(layer "F.SilkS")
 			(uuid "be62eac3-710c-461c-9296-b4aad0e63231")
 			(effects
@@ -5189,6 +5197,7 @@
 		(property "Reference" "C10"
 			(at -3.2425 0 0)
 			(layer "F.SilkS")
+			(hide yes)
 			(uuid "6239bd38-af02-4933-b03a-2158cf36c5e1")
 			(effects
 				(font
@@ -5399,7 +5408,7 @@
 		(descr "Capacitor SMD 0805 (2012 Metric), square (rectangular) end terminal, IPC-7351 nominal with elongated pad for handsoldering. (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf, https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing)")
 		(tags "capacitor handsolder")
 		(property "Reference" "C15"
-			(at 0.35 1.68 90)
+			(at -0.75 1.877 90)
 			(layer "F.SilkS")
 			(uuid "c73e8633-5fec-40c0-8e40-691773f8b82e")
 			(effects
@@ -5550,6 +5559,7 @@
 		(property "Reference" "R7"
 			(at 0 -1.43 90)
 			(layer "F.SilkS")
+			(hide yes)
 			(uuid "87cff292-194a-4d50-8c31-4bcbdd336afd")
 			(effects
 				(font
@@ -7440,6 +7450,7 @@
 		(property "Reference" "C9"
 			(at 0 -1.43 0)
 			(layer "F.SilkS")
+			(hide yes)
 			(uuid "e1c1db74-0820-44e6-b467-01e2e08bdbe5")
 			(effects
 				(font
@@ -8117,6 +8128,7 @@
 		(property "Reference" "R3"
 			(at 0 -1.43 90)
 			(layer "F.SilkS")
+			(hide yes)
 			(uuid "ca9b5793-0f08-4e26-8e69-fff9d4447656")
 			(effects
 				(font
@@ -9591,19 +9603,6 @@
 				(justify mirror)
 			)
 		)
-		(fp_text user "*"
-			(at -2.3495 2.5498 0)
-			(unlocked yes)
-			(layer "B.SilkS")
-			(uuid "7f138beb-702f-482b-87ee-ea7796d62d78")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-				(justify mirror)
-			)
-		)
 		(fp_text user "${REFERENCE}"
 			(at 0 0 0)
 			(unlocked yes)
@@ -9622,18 +9621,6 @@
 			(unlocked yes)
 			(layer "B.Fab")
 			(uuid "3c6a7756-9b9c-4662-ba7d-b2a40b68b0e6")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-				(justify mirror)
-			)
-		)
-		(fp_text user "*"
-			(at -2.3495 2.5498 0)
-			(layer "B.Fab")
-			(uuid "ea95b079-e1a8-41f2-8827-e45bc529e3d2")
 			(effects
 				(font
 					(size 1 1)
@@ -12047,12 +12034,12 @@
 		)
 	)
 	(gr_text "ARDUINO NANO"
-		(at 150.22 116.49 90)
+		(at 155 119.3 90)
 		(layer "F.SilkS")
 		(uuid "d2c2573f-95ca-4b27-b2b0-4a4afcd9537c")
 		(effects
 			(font
-				(size 2 2)
+				(size 1 1)
 				(thickness 0.15)
 			)
 		)
