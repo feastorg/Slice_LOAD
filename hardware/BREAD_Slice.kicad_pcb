@@ -10656,7 +10656,7 @@
 		(at 149.13 84.77 90)
 		(descr "Resistor SMD 0805 (2012 Metric), square (rectangular) end terminal, IPC-7351 nominal with elongated pad for handsoldering. (Body size source: IPC-SM-782 page 72, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
 		(tags "resistor handsolder")
-		(property "Reference" "R10"
+		(property "Reference" "R11"
 			(at 0 1.65 270)
 			(layer "B.SilkS")
 			(uuid "c52e4e8a-879d-4a10-9599-deb247bcda31")
@@ -10668,7 +10668,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Value" "71.5k 1%"
+		(property "Value" "100k"
 			(at 0 -1.65 270)
 			(layer "B.Fab")
 			(uuid "c6bbb558-8c8f-457b-b0fe-7150df7c4efb")
@@ -10707,7 +10707,7 @@
 			)
 		)
 		(property ki_fp_filters "R_*")
-		(path "/6de3a3fd-790e-4d94-a2c4-e38a1720a215/a9540ec4-8036-4b53-8d10-8c3cf0ab5c6a")
+		(path "/6de3a3fd-790e-4d94-a2c4-e38a1720a215/839b3fe9-3699-4a4d-95b1-4cecaa676f09")
 		(sheetname "/TPS7A4901-5VA/")
 		(sheetfile "tps7a4901.kicad_sch")
 		(attr smd)
