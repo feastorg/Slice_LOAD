@@ -1309,17 +1309,6 @@
 		)
 		(uuid "0f7c29d7-3563-4690-bd51-dd991fc3b210")
 	)
-	(wire
-		(pts
-			(xy 77.47 44.45) (xy 77.47 31.75)
-		)
-		(stroke
-			(width 0.2032)
-			(type default)
-			(color 194 0 0 1)
-		)
-		(uuid "10901273-725c-4d6c-8ec3-929c9604178b")
-	)
 	(polyline
 		(pts
 			(xy 63.5 67.31) (xy 71.12 67.31)
@@ -1854,17 +1843,6 @@
 			(color 194 0 0 1)
 		)
 		(uuid "75068be3-7c11-4741-acc5-3669bfb56abc")
-	)
-	(wire
-		(pts
-			(xy 81.28 90.17) (xy 81.28 101.6)
-		)
-		(stroke
-			(width 0.2032)
-			(type default)
-			(color 128 77 0 1)
-		)
-		(uuid "75507ca6-52c4-48c3-bd36-6d01cdf3a31d")
 	)
 	(wire
 		(pts
@@ -4594,5 +4572,350 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "1eac91a3-f03b-4e68-b113-2ed550984ac1")
+	)
+	(wire
+		(pts
+			(xy 77.47 31.75) (xy 77.47 34.29)
+		)
+		(stroke
+			(width 0.2032)
+			(type default)
+			(color 194 0 0 1)
+		)
+		(uuid "dd6e389b-91df-41ab-94ba-039f522d9536")
+	)
+	(wire
+		(pts
+			(xy 77.47 41.91) (xy 77.47 44.45)
+		)
+		(stroke
+			(width 0.2032)
+			(type default)
+			(color 194 0 0 1)
+		)
+		(uuid "d85a2282-5b53-468e-927e-9d74ae5e9c74")
+	)
+	(symbol
+		(lib_id "Device:R")
+		(at 77.47 38.1 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(uuid "4875b198-913c-424d-969d-2036e8060501")
+		(property "Reference" "R12"
+			(at 78.994 37.465 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "1k"
+			(at 78.994 39.37 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder"
+			(at 77.47 38.1 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 77.47 38.1 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Resistor"
+			(at 77.47 38.1 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "63840c5a-ec9a-44a9-ad52-7a173306efe7")
+		)
+		(pin "2"
+			(uuid "a17fb022-971d-4c6a-bacd-239a6542d6ef")
+		)
+		(instances
+			(project ""
+				(path "/66043bca-a260-4915-9fce-8a51d324c687/750db89f-8b40-4cde-930a-58e7ceb323d5"
+					(reference "R12")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(label "REFP"
+		(at 78.74 44.45 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "9f62b307-4564-496c-bdbc-0fb95bb1b004")
+	)
+	(wire
+		(pts
+			(xy 81.28 90.17) (xy 81.28 92.71)
+		)
+		(stroke
+			(width 0.2032)
+			(type default)
+			(color 128 77 0 1)
+		)
+		(uuid "4036bebf-573d-4e7e-a833-74b7a9646758")
+	)
+	(wire
+		(pts
+			(xy 81.28 100.33) (xy 81.28 101.6)
+		)
+		(stroke
+			(width 0.2032)
+			(type default)
+			(color 128 77 0 1)
+		)
+		(uuid "610c85fa-5512-4dc0-975e-8e9580e8b74e")
+	)
+	(symbol
+		(lib_id "Device:R")
+		(at 81.28 96.52 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(uuid "ae70cf88-a64e-4b4b-8f46-4436efe71cda")
+		(property "Reference" "R13"
+			(at 82.804 95.885 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "1k"
+			(at 82.804 97.79 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder"
+			(at 81.28 96.52 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 81.28 96.52 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Resistor"
+			(at 81.28 96.52 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "af9a536a-95b7-4554-9244-a3f11b2481ee")
+		)
+		(pin "2"
+			(uuid "d46519b3-f149-47e4-8dd0-6ee36d5f4377")
+		)
+		(instances
+			(project ""
+				(path "/66043bca-a260-4915-9fce-8a51d324c687/750db89f-8b40-4cde-930a-58e7ceb323d5"
+					(reference "R13")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:C")
+		(at 77.47 91.44 90)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(uuid "9f27c4dd-75e4-48af-9688-9d5effc32a90")
+		(property "Reference" "C17"
+			(at 72.39 94.615 90)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Value" "10n C0G"
+			(at 72.39 96.52 90)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder"
+			(at 77.47 91.44 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" "https://yageogroup.com/component-documentation/download/specsheet/C0603C103J3GACTU?lang=en"
+			(at 77.47 91.44 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Unpolarized capacitor"
+			(at 77.47 91.44 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MPN" "C0603C103J3GACTU"
+			(at 77.47 91.44 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "2"
+			(uuid "bdfd88f2-c751-4e7e-84af-d1034d9fa9ee")
+		)
+		(pin "1"
+			(uuid "6a92c390-86d1-44b3-b723-9fc07afcca7e")
+		)
+		(instances
+			(project "BREAD_Slice"
+				(path "/66043bca-a260-4915-9fce-8a51d324c687/750db89f-8b40-4cde-930a-58e7ceb323d5"
+					(reference "C17")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(label "REFN"
+		(at 81.28 90.17 90)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "9237f5a9-e6aa-4332-8b59-907f694d3832")
+	)
+	(wire
+		(pts
+			(xy 73.66 91.44) (xy 72.39 91.44)
+		)
+		(stroke
+			(width 0.2032)
+			(type default)
+			(color 194 0 0 1)
+		)
+		(uuid "8f33b002-086c-4820-bc2d-75c477f2f011")
+	)
+	(label "REFP"
+		(at 72.39 91.44 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right bottom)
+		)
+		(uuid "1192d61a-a8c5-400a-b6f5-7bc8120be56b")
+	)
+	(junction
+		(at 81.28 91.44)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "2493fe9d-af81-4c37-9c56-88d81f056f7a")
 	)
 )
