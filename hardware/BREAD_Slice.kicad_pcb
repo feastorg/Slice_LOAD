@@ -13281,14 +13281,6 @@
 		(uuid "6b286a6b-0f6f-4b5c-9477-2af0e2482909")
 	)
 	(segment
-		(start 170.532769 134.132769)
-		(end 170.523 134.132769)
-		(width 0.5)
-		(layer "F.Cu")
-		(net "+5V")
-		(uuid "6b9c46c5-fca5-4f93-ae39-4470684716ca")
-	)
-	(segment
 		(start 164.2 137.85)
 		(end 168.25 133.8)
 		(width 1.5)
