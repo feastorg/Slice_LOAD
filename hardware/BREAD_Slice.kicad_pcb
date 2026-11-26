@@ -3600,7 +3600,7 @@
 				)
 			)
 		)
-		(property "Value" "10n"
+		(property "Value" "10n C0G"
 			(at 0 1.43 0)
 			(layer "F.Fab")
 			(uuid "11c3b792-5adc-43a3-a92b-bee83a7f2834")
@@ -3611,7 +3611,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://www.murata.com/en-us/products/productdetail?partno=GRM1885C1H103JA01%23"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -3628,6 +3628,18 @@
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "f7cc5127-b210-4698-bbbc-ed56d598dc89")
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "MPN" "GRM1885C1H103JA01D"
+			(at 0 0 180)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "49bb3bc4-6a30-42cc-a124-6a4440a13054")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3800,7 +3812,7 @@
 				)
 			)
 		)
-		(property "Value" "10n"
+		(property "Value" "10n C0G"
 			(at 0 1.43 0)
 			(layer "F.Fab")
 			(uuid "dff3ba0b-8441-499c-9748-bab04e7f8458")
@@ -3811,7 +3823,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://www.murata.com/en-us/products/productdetail?partno=GRM1885C1H103JA01%23"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -3828,6 +3840,18 @@
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "4ef8926e-61af-48a9-877e-fd10e1070fac")
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "MPN" "GRM1885C1H103JA01D"
+			(at 0 0 180)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "1a34b7e0-4d85-40e7-af3f-edf7bd0f82e4")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4961,7 +4985,7 @@
 				)
 			)
 		)
-		(property "Value" "0.1u"
+		(property "Value" "0.1u C0G"
 			(at 0 1.43 90)
 			(layer "F.Fab")
 			(uuid "ef750115-51ce-4147-aa96-c71ead32629d")
@@ -4972,7 +4996,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://product.tdk.com/en/search/capacitor/ceramic/mlcc/info?part_no=C1608C0G1E104J080AA"
 			(at 0 0 90)
 			(layer "F.Fab")
 			(hide yes)
@@ -4989,6 +5013,18 @@
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "75944c03-d830-4aca-bf4b-676209ce724e")
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "MPN" "C1608C0G1E104J080AA"
+			(at 0 0 90)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "1d2d99db-dd2b-4cd3-82da-89b4d695ebb0")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5161,7 +5197,7 @@
 				)
 			)
 		)
-		(property "Value" "10n"
+		(property "Value" "10n C0G"
 			(at 0 1.43 0)
 			(layer "F.Fab")
 			(uuid "24f6b2b1-0272-441a-b3ce-bdf9f08d43ed")
@@ -5172,7 +5208,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://www.murata.com/en-us/products/productdetail?partno=GRM1885C1H103JA01%23"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -5189,6 +5225,18 @@
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "84846cee-6296-4320-a04b-82cf79d4c441")
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "MPN" "GRM1885C1H103JA01D"
+			(at 0 0 180)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "009d480d-e29e-45a6-81dd-49e3e8a1192f")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7400,7 +7448,7 @@
 				)
 			)
 		)
-		(property "Value" "10n"
+		(property "Value" "10n C0G"
 			(at 0 1.43 0)
 			(layer "F.Fab")
 			(uuid "b346b2cc-e0b4-40ee-8cb8-d125228362b0")
@@ -7411,7 +7459,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://www.murata.com/en-us/products/productdetail?partno=GRM1885C1H103JA01%23"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -7428,6 +7476,18 @@
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "d717deaf-ff54-490e-9360-bdb0d1447b4a")
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "MPN" "GRM1885C1H103JA01D"
+			(at 0 0 180)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "c737dde4-b023-4874-93c0-3e8b987b1b63")
 			(effects
 				(font
 					(size 1.27 1.27)

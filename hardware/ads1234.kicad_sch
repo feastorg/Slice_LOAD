@@ -3086,7 +3086,7 @@
 				)
 			)
 		)
-		(property "Value" "10n"
+		(property "Value" "10n C0G"
 			(at 90.932 149.352 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3107,7 +3107,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://www.murata.com/en-us/products/productdetail?partno=GRM1885C1H103JA01%23"
 			(at 86.36 148.59 0)
 			(hide yes)
 			(show_name no)
@@ -3119,6 +3119,17 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor"
+			(at 86.36 148.59 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MPN" "GRM1885C1H103JA01D"
 			(at 86.36 148.59 0)
 			(hide yes)
 			(show_name no)
@@ -3404,7 +3415,7 @@
 				)
 			)
 		)
-		(property "Value" "10n"
+		(property "Value" "10n C0G"
 			(at 132.842 176.022 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3425,7 +3436,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://www.murata.com/en-us/products/productdetail?partno=GRM1885C1H103JA01%23"
 			(at 128.27 175.26 0)
 			(hide yes)
 			(show_name no)
@@ -3437,6 +3448,17 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor"
+			(at 128.27 175.26 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MPN" "GRM1885C1H103JA01D"
 			(at 128.27 175.26 0)
 			(hide yes)
 			(show_name no)
@@ -3484,7 +3506,7 @@
 				)
 			)
 		)
-		(property "Value" "10n"
+		(property "Value" "10n C0G"
 			(at 90.932 176.022 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3505,7 +3527,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://www.murata.com/en-us/products/productdetail?partno=GRM1885C1H103JA01%23"
 			(at 86.36 175.26 0)
 			(hide yes)
 			(show_name no)
@@ -3517,6 +3539,17 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor"
+			(at 86.36 175.26 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MPN" "GRM1885C1H103JA01D"
 			(at 86.36 175.26 0)
 			(hide yes)
 			(show_name no)
@@ -3563,7 +3596,7 @@
 				)
 			)
 		)
-		(property "Value" "0.1u"
+		(property "Value" "0.1u C0G"
 			(at 74.93 45.466 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3584,7 +3617,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://product.tdk.com/en/search/capacitor/ceramic/mlcc/info?part_no=C1608C0G1E104J080AA"
 			(at 74.93 49.53 0)
 			(hide yes)
 			(show_name no)
@@ -3596,6 +3629,17 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor"
+			(at 74.93 49.53 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MPN" "C1608C0G1E104J080AA"
 			(at 74.93 49.53 0)
 			(hide yes)
 			(show_name no)
@@ -3643,7 +3687,7 @@
 				)
 			)
 		)
-		(property "Value" "10n"
+		(property "Value" "10n C0G"
 			(at 132.842 149.352 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3664,7 +3708,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://www.murata.com/en-us/products/productdetail?partno=GRM1885C1H103JA01%23"
 			(at 128.27 148.59 0)
 			(hide yes)
 			(show_name no)
@@ -3676,6 +3720,17 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor"
+			(at 128.27 148.59 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MPN" "GRM1885C1H103JA01D"
 			(at 128.27 148.59 0)
 			(hide yes)
 			(show_name no)
