@@ -1133,7 +1133,7 @@
 		(stroke
 			(width 0.2032)
 			(type default)
-			(color 0 0 0 1)
+			(color 128 77 0 1)
 		)
 		(uuid "b920a68f-4a1e-4635-a69b-5dda66d1a7ee")
 	)
@@ -1216,17 +1216,6 @@
 	)
 	(wire
 		(pts
-			(xy 106.68 118.11) (xy 119.38 118.11)
-		)
-		(stroke
-			(width 0.2032)
-			(type default)
-			(color 0 0 0 1)
-		)
-		(uuid "e52f0338-cc3f-474a-989c-6fc57746cb6f")
-	)
-	(wire
-		(pts
 			(xy 189.23 80.01) (xy 203.2 80.01)
 		)
 		(stroke
@@ -1269,6 +1258,16 @@
 		(uuid "2d31db90-4cbc-4e10-bec0-b7188292d695")
 	)
 	(label "EPAD"
+		(at 119.38 118.11 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "332c97ea-feaa-456a-82e7-f57b36d5012b")
+	)
+	(label "EPAD"
 		(at 152.4 116.84 0)
 		(effects
 			(font
@@ -1298,17 +1297,6 @@
 			(justify left)
 		)
 		(uuid "46b1f003-923f-468d-a238-b26624f16a4e")
-	)
-	(hierarchical_label "GND"
-		(shape input)
-		(at 106.68 118.11 180)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right)
-		)
-		(uuid "491553bb-f11b-4701-9ffa-a9cb9505e2bd")
 	)
 	(hierarchical_label "VIN"
 		(shape input)

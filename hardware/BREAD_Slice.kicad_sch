@@ -5851,17 +5851,6 @@
 	)
 	(wire
 		(pts
-			(xy 204.47 59.69) (xy 204.47 62.23)
-		)
-		(stroke
-			(width 0.2032)
-			(type default)
-			(color 0 0 0 1)
-		)
-		(uuid "813484e3-ea28-4178-ad51-0803aa580138")
-	)
-	(wire
-		(pts
 			(xy 52.07 80.01) (xy 55.88 80.01)
 		)
 		(stroke
@@ -6722,17 +6711,6 @@
 	)
 	(wire
 		(pts
-			(xy 204.47 59.69) (xy 209.55 59.69)
-		)
-		(stroke
-			(width 0.2032)
-			(type default)
-			(color 0 0 0 1)
-		)
-		(uuid "f909e93f-70da-464e-92f8-fe79a0f4c514")
-	)
-	(wire
-		(pts
 			(xy 31.75 100.33) (xy 30.48 100.33)
 		)
 		(stroke
@@ -6836,16 +6814,6 @@
 			(justify left bottom)
 		)
 		(uuid "04bdbb91-322f-46f9-92bf-ee8ab2aafe63")
-	)
-	(label "GNDPWR"
-		(at 204.47 59.69 180)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right bottom)
-		)
-		(uuid "12dc584f-7e6e-49b0-ad81-deb24c4c44b2")
 	)
 	(label "I2C_CLK"
 		(at 44.45 31.75 0)
@@ -11303,84 +11271,6 @@
 		)
 	)
 	(symbol
-		(lib_id "power:GNDPWR")
-		(at 204.47 62.23 0)
-		(unit 1)
-		(body_style 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "be70bac8-d732-47aa-bfa2-da2ccac43d3b")
-		(property "Reference" "#PWR030"
-			(at 204.47 67.31 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "GNDPWR"
-			(at 204.343 66.04 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" ""
-			(at 204.47 63.5 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Datasheet" ""
-			(at 204.47 63.5 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" "Power symbol creates a global label with name \"GNDPWR\" , global ground"
-			(at 204.47 62.23 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "1"
-			(uuid "bee09583-9c8b-41de-aeec-b047d4cb7d4a")
-		)
-		(instances
-			(project "BREAD_Slice"
-				(path "/66043bca-a260-4915-9fce-8a51d324c687"
-					(reference "#PWR030")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "power:GNDA")
 		(at 96.52 142.24 0)
 		(unit 1)
@@ -12789,16 +12679,6 @@
 		(pin "VIN" input
 			(at 209.55 53.34 180)
 			(uuid "20bc1e33-87d0-4f37-b8f0-707741b3f45a")
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(pin "GND" input
-			(at 209.55 59.69 180)
-			(uuid "ec2aba90-a123-4e55-8a2b-0a7c0b56684f")
 			(effects
 				(font
 					(size 1.27 1.27)
