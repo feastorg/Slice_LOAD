@@ -1117,17 +1117,6 @@
 	)
 	(wire
 		(pts
-			(xy 123.19 105.41) (xy 125.73 105.41)
-		)
-		(stroke
-			(width 0.2032)
-			(type default)
-			(color 0 0 0 1)
-		)
-		(uuid "b395816b-3e44-44e2-8cea-0e2a5c3ebf2b")
-	)
-	(wire
-		(pts
 			(xy 203.2 80.01) (xy 203.2 93.98)
 		)
 		(stroke
@@ -1270,12 +1259,12 @@
 		(uuid "fdf4e11c-d8ca-4557-818f-8f5e3604b6d2")
 	)
 	(label "EPAD"
-		(at 123.19 105.41 180)
+		(at 125.73 105.41 180)
 		(effects
 			(font
 				(size 1.27 1.27)
 			)
-			(justify right bottom)
+			(justify right top)
 		)
 		(uuid "2d31db90-4cbc-4e10-bec0-b7188292d695")
 	)
@@ -1598,7 +1587,7 @@
 		(dnp no)
 		(uuid "aff9ee13-adcd-4d62-baeb-1ff2de4e7f4b")
 		(property "Reference" "C12"
-			(at 122.682 101.854 90)
+			(at 125.222 101.6 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -1608,7 +1597,7 @@
 			)
 		)
 		(property "Value" "10n X7R"
-			(at 122.936 104.14 90)
+			(at 125.222 103.251 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
