@@ -1921,17 +1921,6 @@
 	)
 	(wire
 		(pts
-			(xy 156.21 54.61) (xy 119.38 54.61)
-		)
-		(stroke
-			(width 0.2032)
-			(type default)
-			(color 194 194 0 1)
-		)
-		(uuid "897f02a0-552e-481b-9043-c8b06bba6d4f")
-	)
-	(wire
-		(pts
 			(xy 69.85 143.51) (xy 77.47 143.51)
 		)
 		(stroke
@@ -2090,17 +2079,6 @@
 			(color 194 0 0 1)
 		)
 		(uuid "bbbbd2f1-8151-4119-84ab-3c2b0eff10c1")
-	)
-	(wire
-		(pts
-			(xy 156.21 52.07) (xy 119.38 52.07)
-		)
-		(stroke
-			(width 0.2032)
-			(type default)
-			(color 194 194 0 1)
-		)
-		(uuid "bcc0bbc0-2ca4-4a46-b142-6db383a1c08e")
 	)
 	(wire
 		(pts
@@ -4917,5 +4895,211 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "2493fe9d-af81-4c37-9c56-88d81f056f7a")
+	)
+	(wire
+		(pts
+			(xy 156.21 52.07) (xy 149.86 52.07)
+		)
+		(stroke
+			(width 0.2032)
+			(type default)
+			(color 194 194 0 1)
+		)
+		(uuid "2eff590c-5ab9-4920-b624-2bfe826c00a4")
+	)
+	(wire
+		(pts
+			(xy 142.24 52.07) (xy 119.38 52.07)
+		)
+		(stroke
+			(width 0.2032)
+			(type default)
+			(color 194 194 0 1)
+		)
+		(uuid "64b0d514-8716-418f-aaee-48b5f85ef01c")
+	)
+	(symbol
+		(lib_id "Device:R")
+		(at 146.05 52.07 90)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(uuid "ed7eecc2-ea73-475b-a23f-94a6ac05c1b0")
+		(property "Reference" "R15"
+			(at 142.494 50.419 90)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Value" "47"
+			(at 147.32 50.419 90)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder"
+			(at 146.05 52.07 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 146.05 52.07 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Resistor"
+			(at 146.05 52.07 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "17fa344f-af6f-42c9-8326-f592f828070a")
+		)
+		(pin "2"
+			(uuid "25c87e77-1bb3-4c72-81dd-e195fba08fa2")
+		)
+		(instances
+			(project ""
+				(path "/66043bca-a260-4915-9fce-8a51d324c687/750db89f-8b40-4cde-930a-58e7ceb323d5"
+					(reference "R15")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(wire
+		(pts
+			(xy 156.21 54.61) (xy 132.08 54.61)
+		)
+		(stroke
+			(width 0.2032)
+			(type default)
+			(color 194 194 0 1)
+		)
+		(uuid "193f9f5a-35c7-4364-bbe0-da6358ba21fe")
+	)
+	(wire
+		(pts
+			(xy 124.46 54.61) (xy 119.38 54.61)
+		)
+		(stroke
+			(width 0.2032)
+			(type default)
+			(color 194 194 0 1)
+		)
+		(uuid "d26a1567-010f-4938-b5db-a31f340112a5")
+	)
+	(symbol
+		(lib_id "Device:R")
+		(at 128.27 54.61 90)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(uuid "fe97943c-f9c7-4bad-be14-1f904f446b2d")
+		(property "Reference" "R14"
+			(at 124.714 56.07 90)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Value" "47"
+			(at 129.54 56.07 90)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder"
+			(at 128.27 54.61 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 128.27 54.61 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Resistor"
+			(at 128.27 54.61 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "e5a896fe-4179-4c1b-8743-b7db90d99113")
+		)
+		(pin "2"
+			(uuid "a014cbd4-54b9-4ce6-ae1c-a336a95b890d")
+		)
+		(instances
+			(project ""
+				(path "/66043bca-a260-4915-9fce-8a51d324c687/750db89f-8b40-4cde-930a-58e7ceb323d5"
+					(reference "R14")
+					(unit 1)
+				)
+			)
+		)
 	)
 )
