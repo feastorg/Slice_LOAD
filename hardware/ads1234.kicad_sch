@@ -3584,7 +3584,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder"
+		(property "Footprint" "Capacitor_SMD:C_1206_3216Metric"
 			(at 78.74 48.5648 0)
 			(hide yes)
 			(show_name no)
@@ -3595,7 +3595,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "https://product.tdk.com/en/search/capacitor/ceramic/mlcc/info?part_no=C1608C0G1E104J080AA"
+		(property "Datasheet" "https://yageogroup.com/component-documentation/download/specsheet/C1206C104J3GACTU?lang=en"
 			(at 74.93 49.53 0)
 			(hide yes)
 			(show_name no)
@@ -3617,7 +3617,7 @@
 				)
 			)
 		)
-		(property "MPN" "C1608C0G1E104J080AA"
+		(property "MPN" "C1206C104J3GACTU"
 			(at 74.93 49.53 0)
 			(hide yes)
 			(show_name no)
